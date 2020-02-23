@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac423c84-d126-4151-b644-35111170e0d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Docx/Acknowledgement.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Docx/Cover-TU.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Docx/Cover.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Docx/Main-report.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Docx/Mentor-Recommendation.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Docx/TOC.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/01fig14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/01fig15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/01fig16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/01fig17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/01fig18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/01fig19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/01fig20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/AdobeAnalyticsScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/ShowCover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/addTo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/addTo_data/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/addTo_data/d527718953" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/addTo_data/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/addTo_data/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/addTo_data/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/articleinfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/d527718953" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/delicious.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/digg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/dropdowns.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/fastclick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/fbds.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/interactive.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/jquery-ui-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/micronav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/nr-1071.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/print_16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/s-code-contents-125d7da8ac1b002237dfa70879f311978956c872.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/satelliteLib-e60d3fc58d8b16be4c1f7f462b226e27110ae08e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/save_16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Cisco Enterprise Architecture Model (1.2.2) &gt; Cisco Networking Academy Connecting Networks Companion Guide: Hierarchical Network Design_files/swfobject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/107315243297122" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/2214632.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/2214632_002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/300lo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/AutoComplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/B-BSmartWorx_PoweredByAdvantech_72rgb_5115-r0-452.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/C5SMB7FBG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/EthernetRJ45A-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/EthernetRJ45B.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/GetResource.ashx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/GetResource.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/IDRO7SYSLJHTHMTGI4ILYU" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/LiveHelpNow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/SE500SwitchGroup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/ScriptResource.axd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/ScriptResource_002.axd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/WebResource.axd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/_ate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/addthis_widget.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/conversion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/css_browser_selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/ethernet-serial-servers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/facebook-i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/fbevents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/fiber-media-conversion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/g.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/gate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/google-plus-i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/imageserver.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/jquery-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/jquery.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/jquery_002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/linked-in-i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/linkid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/livehelpnow.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/new_embed-bee561032092eaa907cef89871bd8feb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/newslet-i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/out.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/out.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/out_002.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/out_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/out_003.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/out_004.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/out_005.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/out_006.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/out_007.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/p-align-center-font-color-003366-size-1-Please-not.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/pdf-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/r.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/roundtrip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/scoop-it-i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/sh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/siteanalyze_6023288.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/st.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/t.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/twitter-i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Ethernet Cables - RJ45_Colors &amp; Crossover - B&amp;B Electronics_files/youtube-i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/4029-273106.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/4029.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/a_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/adsbygoogle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/brand" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/bxslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/ca-pub-1026064395378929.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/cbgapi.loaded_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/cbgapi.loaded_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/colors.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/conversion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/expressvpn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/fastbutton.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/fastbutton_data/rsAGLTcCM15SXESvBcncH9TctxCyjZctat5Q" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/fitvids.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/follow_button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/hma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/integrator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/integrator_002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/jqueryscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/jqueryuiscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/magnific.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/platform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/postmessageRelay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/postmessageRelay_data/25936583-postmessagerelay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/postmessageRelay_data/cbgapi.loaded_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/postmessageRelay_data/rpcshindig_random.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/responsive-0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/responsive-1200.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/responsive-768.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/responsive-992.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_004.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_005.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data/ads_data/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data/ads_data/cookie_push.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data/ads_data/si.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_002/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_002/ads_data/4797055941142442878.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_002/ads_data/4964626757608165640.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_002/ads_data/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_002/ads_data/cookie_push.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_002/ads_data/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_002/ads_data/css_002.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_003/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_003/ads_data/6094960184374042208.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_003/ads_data/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_003/ads_data/cookie_push.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_004/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_004/ads_data/abg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_004/ads_data/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_004/ads_data/ads_data/lSvH2GMDHdWiQ5txKk8DBwe8KHVpOosizyQXSe1BYYE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_004/ads_data/cookie_push.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_004/ads_data/m_js_controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_004/ads_data/m_qs_click_protection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_004/ads_data/m_window_focus_non_hydra.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_004/ads_data/osd_listener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_005/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_005/osd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_005/show_ads_impl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/rj45-wiring_data_005/zrt_lookup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/smoothscroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/t568a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/t568b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/trendyblog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/typography.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/viewportchecker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/vpn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/vyprvpn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/widget_iframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/RJ45 Cable Wiring: T-568-B Straight-through &amp; Crossover RJ-45 cabling_files/widgets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle.shtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/UISuite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/a_002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/bat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/converter-10-dualst-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/converter-1110-dual-sc-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/converter-fast-dualst-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/converter-gig-dualsc-lg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/cookieControl-7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/footer_new.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/gtm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/impl-1_28.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/jquery-latest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/linkid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/main_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/overlay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/perle-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/pf-pdf-icon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/pf-print-icon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/products_boxes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/quote-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/respond-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/s-10g-xts-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/s-10gt-sfp-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/s-110p-s2sc-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/s-1110-sfp-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/s-1110dp-dsfp-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/s-1110p-sfp-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/s-gig-sfp-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/sj.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/sj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/storage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/storage_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/tabs_res.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/tabs_responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/tag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/top_navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/Stand-alone Media Converter | Fiber to Ethernet Converter | Perle_files/v.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/300lo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/AdobeAnalyticsScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/ShowCover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/ShowCover_002.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/ShowCover_003.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/ShowCover_004.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/_ate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/addTo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/addTo_data/d527718953" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/addthis_widget.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/d527718953" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/fastclick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/fbds.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/jquery-ui-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/jquery_002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/nr-1071.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/s-code-contents-c595c83c235cc24c47c8833e1edf04d30ab9e3d2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/satelliteLib-6d2c01a6145b7820bff529d931202d42b58a7cc9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/sh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/style-blessed1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/swfobject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/th12fig07.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/th12fig08.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/VLAN Concepts and Applications | CCNA Exam Cram: Advanced Catalyst Switch Operations and Configuration | Pearson IT Certification_files/waypoints.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/103399276-5804ecbd5f9b5805c2b883e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/786108458181251" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/a_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/a_002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/a_003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/apstag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/cc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/cygnus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/cygnus_002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/eNp9UEtOxDAMvRBp7sCGLRr1AqljUtMmDrY7o-H0pFI1RKjDLn4_59mrBSPwn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/eNqVVFty2zAMvFBZnaHp9K8_TU4AkZAEGyJVArIjn76g5ZkoNq1OfkRitQviR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/eNqtVdF2gyAM_aFx-IftdT8RMWpOMXgA1_XvF9Cu2qK2O3so4V4TIJeQ6hAh.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/fbevents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/fullscreen-nav-buy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/fullscreen-nav-domore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/fullscreen-nav-fix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/fullscreen-nav-howto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/gpt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/gtm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_004.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_005.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_002/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_002/how-routers-work-816456.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_002/how-routers-work-816456_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_002/how-routers-work-816456_data/jload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_002/how-routers-work-816456_data_002/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_002/how-routers-work-816456_data_002/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_002/how-routers-work-816456_data_002/zrt_lookup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_003/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_003/how-routers-work-816456.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_003/how-routers-work-816456_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_003/how-routers-work-816456_003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_003/how-routers-work-816456_data/jload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_003/how-routers-work-816456_data_002/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_003/how-routers-work-816456_data_002/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_003/how-routers-work-816456_data_002/ads_data/15254293161519021484.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_003/how-routers-work-816456_data_002/ads_data/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_003/how-routers-work-816456_data_002/ads_data/cookie_push.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_003/how-routers-work-816456_data_002/ads_data/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_003/how-routers-work-816456_data_002/ads_data/css_002.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_004/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_004/how-routers-work-816456.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_004/how-routers-work-816456_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_004/how-routers-work-816456_003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_004/how-routers-work-816456_data/jload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_004/how-routers-work-816456_data_002/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_004/how-routers-work-816456_data_002/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/ca-pub-3345963573740285.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data/jload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_002/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_002/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_002/ads_data/15335561515135567709.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_002/ads_data/abg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_002/ads_data/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_002/ads_data/ads_data/lSvH2GMDHdWiQ5txKk8DBwe8KHVpOosizyQXSe1BYYE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_002/ads_data/cookie_push.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_002/ads_data/m_js_controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_002/ads_data/m_qs_click_protection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_002/ads_data/m_window_focus_non_hydra.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_002/osd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_002/show_ads_impl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/how-routers-work-816456_data_003/sca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/osd_listener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/how-routers-work-816456_data_005/show_ads.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/index-header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/integrator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/integrator_002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/iuj3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/osd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data/cm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data/cm_data/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data/cm_data/cm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data/cm_data/openx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data/cm_data/pixel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data/cm_data/sync_before.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data/emily.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data_002/cm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data_002/cm_data/cs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data_002/cm_data/d939e156-4883-e46f-e3aa-c79b3563f5fa.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data_002/cm_data/ecm3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data_002/cm_data/img.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data_002/cm_data/openx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data_002/cm_data/send.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data_002/ecm3_003.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data_002/ecm3_004.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data_002/emily.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data_002/idsync.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pr_data_002/multi-sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pubads_impl_186.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/pubads_impl_rendering_186.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/spm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What Is a Router for Computer Networks?_files/tax2-internetnetwork-howto-57f7af39a00c18a042691a92.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/1068cf12f6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/124d48dd-e515-4302-8bfb-1d5c1e3da916.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/148927072.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/OpticalNetworksjpg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/a_002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/activity.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/adsbygoogle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/advertisement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/briefcase_icon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/ca-pub-6050985421795229.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/chartbeat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/conversion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/default_avatar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/dpm_b4c96d80854dd27e76d8cc9e21960eebda52e962.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/geo2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/gpt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/gtm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/hotjar-21215.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/img.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/integrator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/integrator_002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/linkid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/modules-b4b50aa474eaa7a39e3ccc9eed6884eb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/nav_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/nr-1071.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/osd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/pubads_impl_186.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/pubads_impl_rendering_186.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/reg_cover_curl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/reg_wrapper_curl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/responsive-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/responsive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/rouse_margaret.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/seg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_004.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_005.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_006.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_007.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_008.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data/view.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/AdDisplayTrackerServlet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/AdServerServlet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/ads" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad_data/420486.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad_data/PugMaster.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad_data/Pug_003.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad_data/Pug_004.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad_data/SPug.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad_data/SPug_002.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad_data/SPug_data_002/plaintext.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad_data/cm.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad_data/getuid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad_data/ibsdpid19566dpuuid9F059294-913A-4562-B300-0EAC7C79A137.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/showad_data/match_002.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/switch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_002/switch_data/3386383268307730710.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_003/AdDisplayTrackerServlet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_003/AdServerServlet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_003/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_003/ads" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_003/showad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_003/showad_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_003/switch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/AdDisplayTrackerServlet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/AdServerServlet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/UCookieSetPug.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/ads" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/gpt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/integrator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/showad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/showad_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/showad_003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/showad_004.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/switch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_004/switch_data/4719855652526173045.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_007/10396453756054618446.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_008/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_008/ads_data/abg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_008/ads_data/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_008/ads_data/ads_data/lSvH2GMDHdWiQ5txKk8DBwe8KHVpOosizyQXSe1BYYE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_008/ads_data/cookie_push.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_008/ads_data/m_js_controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_008/ads_data/m_qs_click_protection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_008/ads_data/m_window_focus_non_hydra.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_008/ads_data/osd_listener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_008/show_ads_impl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/switch_data_008/zrt_lookup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/tr.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/What is switch? - Definition from WhatIs.com_files/whatis_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/116505272317553" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/26047.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/26047_data/a.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/26047_data/tr.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/51913.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/51914.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/51915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/51926.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/51927.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/51928.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/51929.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/51930.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/51931.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/51932.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/51933.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/6si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/8a1d0a1c4fdd2778014fe08b2202043b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/Default-bTop-36.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/adrum-ext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/adrum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/bat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/books.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/books.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/books_metricsrule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/cdcvalid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/cisco-sans.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/conversion_async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/ctm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/custom-elements-es5-adapter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/elqCfg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/fbevents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/foundation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/global-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/granite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/ic_clear_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/icon_lock_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/id30v4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/id_002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/insight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/jquery_002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/kernel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/masthead.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/mbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/megamenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/megamenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/plugin_vp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/psa_typeahead_common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/shared.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/sm_0000EE_oo1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/underscore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_002.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_003.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_004.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_005.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_006.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_007.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_008.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_009.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_010.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_011.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_012.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_013.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_014.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utag_015.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/webcomponents-hi-sd-ce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/webcomponents-loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/xdcLsFrame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/xdcLsFrame_data/xdc_ls_frame.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Internet/br_ncia_client_svr_files/ytc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/PDF/Acknowledgement.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/PDF/Cover-TU.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/PDF/Cover.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/PDF/Main-Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/PDF/Mentor-recommendation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/PDF/Merged Report/Report-Final-Merged.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/PDF/Merged Report/Report-Front-Merged.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/PDF/TOC.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/PPTx/Final-Pre-Def.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/PPTx/Final-Pre-Def.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/References/Docs Guidelines/Intership_Guidelines.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/References/Docs Guidelines/documentation for internship.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Cisco/NDLC-server.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Cisco/cisco-server.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Draw.io/NPHL-Diag.draw.io" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Hardware/MC-GSA11-L_500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Hardware/phone-and-network-crimping-tool.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Hardware/router.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Hardware/switch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Monitoring/cacti-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Monitoring/cacti-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Monitoring/cacti-g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Monitoring/cacti.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Monitoring/icingaweb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Monitoring/monitorcacti.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Monitoring/nphl-cacti.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Monitoring/nphl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Monitoring/nphl1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Monitoring/nphl1s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Monitoring/nphls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Monitoring/sa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Paacket Tracer/Main-PT-1-edited.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Paacket Tracer/Main-PT-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Paacket Tracer/New-B-Switch-PT-edited.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Paacket Tracer/New-B-Switch-PT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Paacket Tracer/Old-B-Switch-PT-edited.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Paacket Tracer/Old-B-Switch-PT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Server Images/NPHL-Diag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Server Images/ac setup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Server Images/dolphin-user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Server Images/grub.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Server Images/ping-test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Server Images/server-c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Server Images/server-update.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Server Images/software-setup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Server Images/software.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Server Images/vbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Tier Architecture/2-tier.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Tier Architecture/3-tier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Tier Architecture/Client-Server-Architecture-MSA-Technosoft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Tier Architecture/creately-network-diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Tier Architecture/cs-images-3-tier.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Tier Architecture/pt-network-diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Images/Tier Architecture/three-tier-software-architecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/NetConfig/Config/Network-overview.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/NetConfig/Config/Router-config-file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/NetConfig/Config/Simple-INTERVLAN-NETWORK.pkt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/NetConfig/Config/switch-config-file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/NetConfig/Images/1-inter-vlan-successful ping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/NetConfig/Images/PC3-ping-PC4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/NetConfig/Images/network.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/NetConfig/Images/router-config-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/NetConfig/Images/router-config-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/NetConfig/Images/switch-config-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/NetConfig/Images/switch-config-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Text Files/Update.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Text Files/nphl-newbuildingsw2switchconfig.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/cdrrazan/internship-report-docs/Resources/Text Files/nphl-router-config.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/repos/cdrrazan/jekyll-themes-and-zero-cost-hosting" />
+  </component>
+  <component name="ProjectId" id="1YDHHT63rM5rd3WR49OaspmiNdp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="github-code-analyzer-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac423c84-d126-4151-b644-35111170e0d8" name="Default Changelist" comment="" />
+      <created>1582470156143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582470156143</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

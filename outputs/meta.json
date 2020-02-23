@@ -1,0 +1,21 @@
+{
+    "languages": {
+        "ASP": 168714,
+        "CSS": 1533742,
+        "CoffeeScript": 1420,
+        "Dockerfile": 4517,
+        "Go": 290,
+        "HTML": 4743883,
+        "Io": 584915,
+        "Java": 9208,
+        "JavaScript": 2013982,
+        "Makefile": 86,
+        "Perl": 27628,
+        "Python": 35864,
+        "Ruby": 2407486,
+        "Shell": 197542
+    },
+    "repo_count": 34,
+    "total_commits": 6234,
+    "username": "cdrrazan"
+}
